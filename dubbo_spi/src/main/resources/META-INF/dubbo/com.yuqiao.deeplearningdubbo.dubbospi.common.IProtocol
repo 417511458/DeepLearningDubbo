@@ -1,0 +1,2 @@
+tcp = com.yuqiao.deeplearningdubbo.dubbospi.common.TcpProtocol
+http = com.yuqiao.deeplearningdubbo.dubbospi.common.HttpProtocol

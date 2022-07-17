@@ -1,0 +1,1 @@
+myLoadBalance=com.yuqiao.deeplearningdubbo.extension.loadbalance.MyLoadBalance

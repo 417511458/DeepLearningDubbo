@@ -1,0 +1,3 @@
+myLog=com.yuqiao.deeplearningdubbo.extension.filter.MyLogFilter
+myAuthProvider=com.yuqiao.deeplearningdubbo.extension.filter.MyAuthProviderFilter
+myAuthConsumer=com.yuqiao.deeplearningdubbo.extension.filter.MyAuthConsumerFilter
